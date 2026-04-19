@@ -2,4 +2,7 @@
 vendor
 composer.lock
 .build/php-cs-fixer/
-
+debian/.debhelper/
+debian/php-meditorial-mailkit-api/
+debian/php-meditorial-mailkit-api.substvars
+debian/debhelper-build-stamp

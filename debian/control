@@ -1,0 +1,17 @@
+Source: php-meditorial-mailkit-api
+Section: php
+Priority: optional
+Maintainer: Vítězslav Dvořák <vitezslav.dvorak@spojenet.cz>
+Build-Depends: debhelper-compat (= 13), pkg-php-tools
+Standards-Version: 4.6.2
+Homepage: https://github.com/Spoje-NET/php-meditorial-mailkit-api
+Vcs-Git: https://github.com/Spoje-NET/php-meditorial-mailkit-api.git
+Vcs-Browser: https://github.com/Spoje-NET/php-meditorial-mailkit-api
+
+Package: php-meditorial-mailkit-api
+Architecture: all
+Depends: ${misc:Depends}, ${phpcomposer:Depends}, php-nette-utils, php-xmlrpc
+Description: Mailkit API client library for PHP
+ PHP client library for the Mailkit email marketing platform API.
+ Provides access to mailing lists, users, messages, events, and webhooks
+ via the Mailkit XML-RPC interface.

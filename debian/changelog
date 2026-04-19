@@ -1,0 +1,5 @@
+php-meditorial-mailkit-api (1.1.4-1) unstable; urgency=medium
+
+  * Initial Debian packaging
+
+ -- Vítězslav Dvořák <vitezslav.dvorak@spojenet.cz>  Sat, 19 Apr 2026 20:12:00 +0200
