@@ -1,0 +1,2 @@
+src/*               usr/share/php/Igloonet/MailkitApi/
+debian/autoload.php usr/share/php/Igloonet/MailkitApi/
