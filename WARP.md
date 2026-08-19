@@ -1,4 +1,4 @@
-# WARP.md - Working AI Reference for mailkit-api
+# AGENTS.md - Working AI Reference for mailkit-api
 
 ## Project Overview
 **Type**: PHP library
